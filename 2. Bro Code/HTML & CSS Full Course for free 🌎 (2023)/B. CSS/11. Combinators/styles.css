@@ -1,0 +1,19 @@
+#container{
+    border: 2px solid;
+}
+
+/* #container  p{
+    background-color: greenyellow;
+} */
+
+/* #container > p{
+    background-color: greenyellow;
+} */
+
+/* #container ~p{
+    background-color: paleturquoise;
+} */
+
+#container + p{
+    background-color:red;
+}

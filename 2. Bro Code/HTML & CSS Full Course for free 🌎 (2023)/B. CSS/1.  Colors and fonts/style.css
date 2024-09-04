@@ -1,0 +1,33 @@
+@font-face {
+  src: url(fonts/Roboto-Light.ttf);
+  font-family: "Roboto-Light";
+}
+
+@font-face {
+  src: url(fonts/Roboto-Regular.ttf);
+  font-family: "Roboto-Regular";
+}
+
+body {
+  background-color: slategray;
+  color: blue;
+  
+  font-family: "Verdana", Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-family: "Roboto-Light", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  color: rgb(58, 31, 31);
+
+  font-family: "Roboto-Regular", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande";
+  font-size: 1.1em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+

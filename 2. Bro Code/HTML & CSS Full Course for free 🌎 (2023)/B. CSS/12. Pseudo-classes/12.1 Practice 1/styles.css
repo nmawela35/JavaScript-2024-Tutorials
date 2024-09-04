@@ -1,0 +1,35 @@
+
+/* button:hover{
+    font-size: 1.1em;
+    background-color: rgb(130, 130, 238);
+} */
+
+a:link{
+    color: rgb(44, 2, 83);
+}
+
+a:hover{
+    color: rgb(170, 94, 241);
+    font-size: 1.1em;
+}
+
+a:active{
+    color: green;
+    font-size: 1.1em;
+}
+
+a:visited{
+    color: red;
+}
+
+li:hover{
+    background-color: yellow;
+}
+
+li:not(:hover){
+    background-color: lightgray;
+}
+
+li:nth-child(2n){
+    background-color: aqua;
+}

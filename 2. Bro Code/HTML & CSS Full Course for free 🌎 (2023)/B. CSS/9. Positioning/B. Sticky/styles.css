@@ -1,0 +1,21 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: sticky;
+    top: 100px;
+    left: 100px ;
+    top: 200px;
+    left: 200px ;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: static;
+    top: 100px;
+    left: 100px ;
+    top: 200px;
+    left: 200px ;
+}
